@@ -10,9 +10,11 @@
 📱 UI/UX Design & Web Performance Optimization
 🤝 Open Source & Collaborative Projects
 🌱 Currently Learning
+
 Full-Stack Development (MERN Stack)
 Advanced JavaScript & TypeScript
 API Development & Database Management
+
 💞️ Looking to Collaborate On
 Open-source projects
 Frontend & Full-Stack Web Applications
